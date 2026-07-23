@@ -1,0 +1,8 @@
+{
+  "name": "Remix: FF Trusted Market",
+  "description": "A secure Free Fire marketplace featuring escrow protection, verified listings, and integrated mobile payments for safe account trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
